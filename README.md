@@ -4,7 +4,7 @@ This project is some of the work I produced during my bachelor computer science 
 I take no responsibility in any harm that may happen to your machine if you run the software. 
 
 # Technologies
-* Machination (Living Simulation UML)
+* Machination (Living Simulation UML) http://www.jorisdormans.nl/machinations/
 * Unity3D (Game Engine)
 
 # Project Description
