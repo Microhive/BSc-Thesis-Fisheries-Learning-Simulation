@@ -1,10 +1,12 @@
 # Bsc Thesis Fisheries Learning Simulation
 This project is some of the work I produced during my bachelor computer science thesis at Fróðskaparsetur Føroya. I have uploaded the software in hope that if someone is interested in this type of research, they can look up how I approached the problems and learn from them. It contains the software, UML, and associated resources that I used to design the simulation processes. 
 
+Having said that, if there is anything you should get out of this work it is the Machinations software. It is a very useful tool for helping you develop and understand game mechanics - not just for games, but simulations of resource allocations which applies well to logistics, businesses, and ecologies simulations.
+
 I take no responsibility in any harm that may happen to your machine if you run the software. 
 
 # Technologies
-* Machination (Living Simulation UML) http://www.jorisdormans.nl/machinations/
+* Machinations (Living Simulation UML) https://www.machinations.io/
 * Unity3D (Game Engine)
 
 # Project Description
