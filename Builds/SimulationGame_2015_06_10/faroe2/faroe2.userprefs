@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Service\Server.cs">
+    <Files>
+      <File FileName="Assets\Scripts\State\Configuration\FishingSpot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\State\Configuration\ClientConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\State\Configuration\ServerConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Importer\StockImporter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Other\Tuple.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Population\Population.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Population\Stock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Service\Server.cs" Line="24" Column="1" />
+      <File FileName="Assets\Scripts\Service\Client.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Service\Service.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StockScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Database.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SimulationControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\State\State.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\State\ServerStateList.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\State\ClientStateList.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Service\Game.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

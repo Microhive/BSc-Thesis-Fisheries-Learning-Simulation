@@ -1,0 +1,29 @@
+<graph version="v4.05" name="Economics" author="" interval="0.30000000000000016" timeMode="asynchronous" distributionMode="fixed speed" speed="100" actions="1" dice="D6" skill="" strategy="" multiplayer="" width="900" height="860" numberOfRuns="100" visibleRuns="25" colorCoding="1">
+  <connection type="Resource Connection" start="7" end="9" label="" position="0.5" color="Red" thickness="2"/>
+  <connection type="Resource Connection" start="9" end="14" label="10" position="0.5" color="Black" thickness="2"/>
+  <connection type="Resource Connection" start="3" end="11" label="10" position="0.5" color="Black" thickness="2"/>
+  <node symbol="Converter" x="320" y="360" color="Black" caption="Buyer" thickness="2" captionPos="0.25" activationMode="automatic" pullMode="pull any" actions="1" resourceColor="Orange"/>
+  <connection type="Resource Connection" start="15" end="10" label="" position="0.5" color="Green" thickness="2"/>
+  <connection type="Resource Connection" start="10" end="16" label="10" position="0.5" color="Black" thickness="2"/>
+  <connection type="Resource Connection" start="8" end="3" label="" position="0.5" color="Blue" thickness="2"/>
+  <node symbol="Pool" x="240" y="200" color="Red" caption="Fished" thickness="3" captionPos="0.25" activationMode="passive" pullMode="pull any" actions="1" resourceColor="Black" startingResources="0" capacity="-1"/>
+  <node symbol="Pool" x="240" y="360" color="Blue" caption="Fished" thickness="3" captionPos="0.25" activationMode="passive" pullMode="pull any" actions="1" resourceColor="Black" startingResources="0" capacity="-1"/>
+  <node symbol="Converter" x="320" y="200" color="Black" caption="Buyer" thickness="2" captionPos="0.25" activationMode="automatic" pullMode="pull any" actions="1" resourceColor="Orange"/>
+  <node symbol="Converter" x="320" y="280" color="Black" caption="Buyer" thickness="2" captionPos="0.25" activationMode="automatic" pullMode="pull any" actions="1" resourceColor="Orange"/>
+  <node symbol="Pool" x="400" y="360" color="Blue" caption="Player Money" thickness="3" captionPos="0.25" activationMode="passive" pullMode="push any" actions="1" resourceColor="Orange" startingResources="100" capacity="-1"/>
+  <connection type="Resource Connection" start="23" end="8" label="" position="0.78" color="Blue" thickness="2"/>
+  <connection type="Resource Connection" start="22" end="15" label="" position="0.5" color="Green" thickness="2"/>
+  <node symbol="Pool" x="400" y="200" color="Red" caption="Player Money" thickness="3" captionPos="0.25" activationMode="passive" pullMode="push any" actions="1" resourceColor="Orange" startingResources="100" capacity="-1"/>
+  <node symbol="Pool" x="240" y="280" color="Green" caption="Fished" thickness="3" captionPos="0.25" activationMode="passive" pullMode="pull any" actions="1" resourceColor="Black" startingResources="0" capacity="-1"/>
+  <node symbol="Pool" x="400" y="280" color="Green" caption="Player Money" thickness="3" captionPos="0.25" activationMode="passive" pullMode="push any" actions="1" resourceColor="Orange" startingResources="100" capacity="-1"/>
+  <node symbol="Pool" x="80" y="280" color="Black" caption="Population" thickness="2" captionPos="0.25" activationMode="passive" pullMode="pull any" actions="1" resourceColor="Black" startingResources="0" capacity="-1"/>
+  <node symbol="Source" x="80" y="200" color="Black" caption="Growth" thickness="2" captionPos="0.75" activationMode="automatic" pullMode="pull any" actions="1" resourceColor="Black"/>
+  <connection type="Resource Connection" start="18" end="17" label="100%" position="0.5" color="Black" thickness="2"/>
+  <connection type="Resource Connection" start="21" end="7" label="" position="0.5" color="Red" thickness="2"/>
+  <node symbol="Gate" x="160" y="200" color="Red" caption="" thickness="2" captionPos="0.25" activationMode="automatic" pullMode="pull any" actions="1" gateType="deterministic"/>
+  <node symbol="Gate" x="160" y="280" color="Green" caption="" thickness="2" captionPos="0.25" activationMode="automatic" pullMode="pull any" actions="1" gateType="deterministic"/>
+  <node symbol="Gate" x="160" y="360" color="Blue" caption="" thickness="2" captionPos="0.25" activationMode="automatic" pullMode="pull any" actions="1" gateType="deterministic"/>
+  <connection type="Resource Connection" start="17" end="22" label="1/3" position="-0.42" color="Black" thickness="2"/>
+  <connection type="Resource Connection" start="17" end="21" label="1/3" position="-0.88" color="Black" thickness="2"/>
+  <connection type="Resource Connection" start="17" end="23" label="1/3" position="0.84" color="Black" thickness="2"/>
+</graph>

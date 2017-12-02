@@ -1,0 +1,15 @@
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\Mono.Data.SqliteClient.dll
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\System.Data.dll
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Eiler\Desktop\faroe2\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Eiler\Desktop\faroe2\obj\Debug\UnityVS.faroe2.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Eiler\Desktop\faroe2\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Eiler\Desktop\faroe2\obj\Debug\Assembly-CSharp-firstpass.pdb
